@@ -6,7 +6,7 @@ This course introduces fundamental principles of computer programming using the 
 
 This is a short course, written for students with perhaps some previous programming experience but it does not assume prior knowledge of Python. (For students who have programmed in Python it serves as a useful refresher).
 
-If you have any questions or issues about the course content, you can email me: `charlotte.desvages@ed.ac.uk`
+If you have any questions or issues about the course content, please email me!
 
 ---
 
